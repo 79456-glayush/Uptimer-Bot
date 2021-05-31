@@ -1,0 +1,22 @@
+{
+"bot":{
+"token": "TOKEN_HERE", 
+"prefix": "#",
+"developer": "720218422222520410", 
+"mongooseConnectLink": "MONGO_URI"
+},
+
+"roles":{
+"premiumRole": "",
+"moderatorRole": ""
+},
+
+"channels": {
+"uptimeLog": "844530884522803222"
+},
+
+"emojis":{
+"ticEmoji": "797093186861793350",
+"crossEmoji": "797093133502251009"
+}
+}
